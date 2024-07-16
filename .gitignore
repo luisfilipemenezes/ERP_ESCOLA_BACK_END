@@ -1,0 +1,15 @@
+# Ignore diretórios node_modules em qualquer lugar no projeto
+node_modules/
+
+# Arquivos de log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Arquivos de configuração do npm
+package-lock.json
+.npmrc
+
+# Arquivos de configuração do yarn
+yarn.lock
+.yarnrc
